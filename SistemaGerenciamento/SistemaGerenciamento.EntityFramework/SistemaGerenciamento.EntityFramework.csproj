@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190318231053_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190318231053_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190318232122_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190318232122_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190318232453_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190318232453_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190318232847_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190318232847_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190318232948_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190318232948_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20190318233427_AlterDecimalEntranceData.cs" />
+    <Compile Remove="Migrations\20190318233427_AlterDecimalEntranceData.Designer.cs" />
+    <Compile Remove="Migrations\20190318233705_AlterDecimalEntranceData.cs" />
+    <Compile Remove="Migrations\20190318233705_AlterDecimalEntranceData.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaGerenciamento.Domain\SistemaGerenciamento.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ResourceFiles\Resource.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="ResourceFiles\Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

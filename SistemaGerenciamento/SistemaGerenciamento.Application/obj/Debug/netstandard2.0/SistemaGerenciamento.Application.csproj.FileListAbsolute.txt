@@ -1,0 +1,14 @@
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.Application.deps.json
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.Application.dll
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.Application.pdb
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.Domain.dll
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.EntityFramework.dll
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.Domain.pdb
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\bin\Debug\netstandard2.0\SistemaGerenciamento.EntityFramework.pdb
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.csprojAssemblyReference.cache
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.AssemblyInfoInputs.cache
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.AssemblyInfo.cs
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.csproj.CopyComplete
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.dll
+C:\Projetos\SistemaAgendamento\SistemaGerenciamento\SistemaGerenciamento.Application\obj\Debug\netstandard2.0\SistemaGerenciamento.Application.pdb
